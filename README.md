@@ -1,7 +1,7 @@
 
 # Hello, World! 👋
 
-## I'm Ola James - A Journeyman in the Tech Realm
+## I'm Ola James - A Journeyman in the Tech World 
 
 ### About Me 🚀
 Embarking on an exploratory path in technology, I'm here to immerse myself in the vast and evolving world of tech. My approach is rooted in a deep-seated curiosity and a desire to understand the intricacies of various tech domains.
